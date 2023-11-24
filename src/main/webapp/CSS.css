@@ -1,0 +1,89 @@
+@charset "UTF-8";
+.titulo{
+	font-weight: bold;
+	font-size: 2rem;
+	text-align: center;
+}
+.titul{
+		font-weight: bold;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		font-size: 2rem;
+		text-align: center;
+}
+.recuadro{
+	display: b;
+}
+.recu{
+	display: block;
+	
+}
+.recu1{
+	display: block;
+	transform: translate(198px,-40px);
+}
+.recu2{
+	display: block;
+	transform: translate(390px,-79px);
+}
+.recu3{
+	display: block;
+	transform: translate(0px,-70px);
+}
+.recu4{
+	display: block;
+	transform: translate(190px,-110px);
+}
+.recu5{
+	display: block;
+	transform: translate(330px,-149px);
+}
+.recu6{
+	display: block;
+	transform: translate(0px,-140px);
+}
+.recu7{
+	display: block;
+	transform: translate(240px,-179px);
+}
+.linea{
+	display: inline-block;
+}
+
+.borde{
+	border: solid 0.1rem;
+	width: 7.5rem;
+	background-color: white;
+	translate: 15px 22px;
+	font-size: 12px;
+}
+.borde1{
+	border: solid 0.1rem;
+	width: 7rem;
+	background-color: white;
+	translate: 15px 22px;
+	font-size: 12px;
+}
+.borde2{
+	border: solid 0.1rem;
+	width: 10rem;
+	background-color: white;
+	translate: 15px 22px;
+	font-size: 12px;
+}
+.backgris{
+	background-color: gray;
+	height: 10rem;
+	}
+.backorange{
+	background-color: orange;
+}
+.backpink{
+	background-color: crimson;
+}
+.a{
+	background-color: white;
+}
+.espacio{
+	margin-left: 1rem;
+}
